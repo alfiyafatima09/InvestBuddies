@@ -78,5 +78,19 @@ By combining **practical learning**, **gamified education**, and a **user-friend
 - **Frontend**: Flutter, Next.js
 - **Backend**: Firebase, Python, Dart
 
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ### 🎉 Let’s make investing **simple, collaborative,** and **exciting** with **InvestBuddies**!  
