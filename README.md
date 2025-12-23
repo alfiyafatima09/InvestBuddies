@@ -1,9 +1,7 @@
 # 🌟 **InvestBuddies**  
-### ~ Save Together, Grow Together 🙂  
+### ~ Save Together, Grow Together  
 
 Welcome to **InvestBuddies**, a beginner-friendly **FinTech platform** that revolutionizes the way people invest. By fostering **collaboration, education**, and **growth**, we aim to make investing **accessible** and **fun** for everyone.  
-
----
 
 ## Download APP
 <a href="https://github.com/alfiyafatima09/State-NightOwls-/raw/refs/heads/main/app-release.apk">
@@ -14,11 +12,11 @@ Welcome to **InvestBuddies**, a beginner-friendly **FinTech platform** that revo
 
 ## 🚀 **Core Idea**  
 
-🎯 **Investing Made Easy**  
+**Investing Made Easy**  
 - Investing can seem intimidating, especially for beginners with limited funds.  
 - **InvestBuddies** bridges the gap by allowing users to **pool resources** with friends and invest **together**.  
 
-💡 **How It Works:**  
+**How It Works:**  
 1. **Collaborative Investment:**  
    - Imagine a minimum investment requirement you can’t meet alone.  
    - Collaborate with friends to **pool funds** and invest as a team.  
@@ -30,18 +28,18 @@ Welcome to **InvestBuddies**, a beginner-friendly **FinTech platform** that revo
 
 ## 🎮 **Beginner-Friendly Features**  
 
-🌟 **Gamified Learning Experience**  
+**Gamified Learning Experience**  
 To make investing less daunting, we focus on **education through gamification**:  
 
-📝 **Daily Quiz**  
+**Daily Quiz**  
 - **5 Questions Daily** to test your knowledge.  
 - Immediate feedback to see correct/incorrect answers.  
 
-📚 **Learning Support**  
+**Learning Support**  
 - Explore a **"Know More"** section for detailed explanations.  
 - Consult our **interactive chatbot** for clarity.  
 
-🤖 **Chatbot Assistance**  
+**Chatbot Assistance**  
 - Get answers to queries about **investments, returns,** and other FinTech topics.  
 
 ---
@@ -50,7 +48,7 @@ To make investing less daunting, we focus on **education through gamification**:
 
 Yes, we need a dashboard! It’s more than just a feature – it’s a **game-changer** for user engagement.  
 
-### 🌟 **Benefits of a Dashboard**  
+### **Benefits of a Dashboard**  
 1. **User Insights:**  
 
 2. **Learning Progress:**   
@@ -61,7 +59,7 @@ Yes, we need a dashboard! It’s more than just a feature – it’s a **game-ch
 
 ---
 
-## 🌟 **Key Dashboard Features**  
+## **Key Dashboard Features**  
 
 🔹 **Profile Overview**: Track your journey at a glance.  
 🔹 **Collaborative Investments**: View shared investments and partner details.  
@@ -71,28 +69,23 @@ Yes, we need a dashboard! It’s more than just a feature – it’s a **game-ch
 
 ---
 
-## 💡 **Final Thoughts**  
+## **Final Thoughts**  
 
 **InvestBuddies** is here to make investing:  
-- **Accessible** 💼  
-- **Collaborative** 🤝  
-- **Fun** 🎉  
+- **Accessible**  
+- **Collaborative**  
+- **Fun** 
 
 By combining **practical learning**, **gamified education**, and a **user-friendly interface**, we empower beginners to:  
-- **Save Together** 🏦  
-- **Grow Together** 📈  
-- **Learn Together** 🎓  
+- **Save Together** 
+- **Grow Together** 
+- **Learn Together**  
 
 ---
 
-### 🛠️ **Tech Stack**  
+###  **Tech Stack**  
 - **Frontend**: Flutter, Next.js
 - **Backend**: Firebase, Python, Dart
 
----
-
-
 
 ### 🎉 Let’s make investing **simple, collaborative,** and **exciting** with **InvestBuddies**!  
-
---- 
