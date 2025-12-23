@@ -23,8 +23,7 @@ Welcome to **InvestBuddies**, a beginner-friendly **FinTech platform** that revo
    - Together, you gain access to opportunities previously out of reach!  
 2. **Mutual Growth:**  
    - Foster **teamwork** and build **financial knowledge** in a supportive community.  
-
----
+   
 
 ## 🎮 **Beginner-Friendly Features**  
 
@@ -42,8 +41,6 @@ To make investing less daunting, we focus on **education through gamification**:
 **Chatbot Assistance**  
 - Get answers to queries about **investments, returns,** and other FinTech topics.  
 
----
-
 ## 📊 **The Need for a Dashboard**  
 
 Yes, we need a dashboard! It’s more than just a feature – it’s a **game-changer** for user engagement.  
@@ -57,8 +54,6 @@ Yes, we need a dashboard! It’s more than just a feature – it’s a **game-ch
 
 4. **Marketing Power:**   
 
----
-
 ## **Key Dashboard Features**  
 
 🔹 **Profile Overview**: Track your journey at a glance.  
@@ -66,8 +61,6 @@ Yes, we need a dashboard! It’s more than just a feature – it’s a **game-ch
 🔹 **Quiz Streaks**: Celebrate your educational milestones.  
 🔹 **Interactive Fun**: Earn **badges** and enjoy motivating **comments**.  
 🔹 **Call-to-Action**: One-click app download from the website.  
-
----
 
 ## **Final Thoughts**  
 
@@ -80,8 +73,6 @@ By combining **practical learning**, **gamified education**, and a **user-friend
 - **Save Together** 
 - **Grow Together** 
 - **Learn Together**  
-
----
 
 ###  **Tech Stack**  
 - **Frontend**: Flutter, Next.js
